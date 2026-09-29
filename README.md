@@ -20,5 +20,6 @@ GoodMaith is an AI math solver with live graphs. Solve a problem and the figure 
 ## Changelog
 
 <!-- changelog-entries -->
+- [0.1.2](https://www.goodmaith.com/changelog/0.1.2) — September 29, 2026. There is a new teacher price at https://www.goodmaith.com/pricing, and drawings settle on the board more reliably.
 - [0.1.1](https://www.goodmaith.com/changelog/0.1.1) — September 29, 2026. Moving around the board feels smoother.
 - [0.1.0](https://www.goodmaith.com/changelog/0.1.0). The public site is open.
