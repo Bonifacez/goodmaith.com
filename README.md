@@ -16,3 +16,9 @@ GoodMaith is an AI math solver with live graphs. Solve a problem and the figure 
 | --- | --- |
 | **Site** | [https://www.goodmaith.com](https://www.goodmaith.com) |
 | **Changelog** | [https://www.goodmaith.com/changelog](https://www.goodmaith.com/changelog) |
+
+## Changelog
+
+<!-- changelog-entries -->
+- [0.1.1](https://www.goodmaith.com/changelog/0.1.1) — September 29, 2026. Moving around the board feels smoother.
+- [0.1.0](https://www.goodmaith.com/changelog/0.1.0). The public site is open.
