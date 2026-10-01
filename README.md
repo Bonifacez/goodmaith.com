@@ -4,7 +4,7 @@
 
 GoodMaith is an AI math solver with live graphs. Solve a problem and the figure is drawn on a live board: a point, a line, a tangent, an integral, a sine. Drag a point and the objects that depend on it update.
 
-The graphing workbench runs in the browser with no account, and the math handbook puts a formula beside a figure you can drag. Sign in to chat. Pro is $19.99/month or $199.99/year. Teach mode is the tutor: it asks one step at a time instead of writing the solution through.
+The graphing workbench runs in the browser with no account, and the math handbook puts a formula beside a figure you can drag. Sign in to chat. Pro is $19.99/month or $119.99/year. Teach mode is the tutor: it asks one step at a time instead of writing the solution through.
 
 **Live site:** [https://www.goodmaith.com](https://www.goodmaith.com)
 
@@ -13,6 +13,7 @@ The graphing workbench runs in the browser with no account, and the math handboo
 ## Changelog
 
 <!-- changelog-entries -->
+- [0.1.6](https://www.goodmaith.com/changelog/0.1.6) — October 1, 2026. new: Yearly Pro costs less.
 - [0.1.5](https://www.goodmaith.com/changelog/0.1.5) — October 1, 2026. new: You can try the tutor before you sign in.
 - [0.1.4](https://www.goodmaith.com/changelog/0.1.4) — October 1, 2026. new: A run of points on the board stays in step with the figures it comes from.
 - [0.1.3](https://www.goodmaith.com/changelog/0.1.3) — September 30, 2026. fix: The page stays responsive while a figure is moving.
