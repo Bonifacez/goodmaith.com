@@ -13,6 +13,7 @@ The graphing workbench runs in the browser with no account, and the math handboo
 ## Changelog
 
 <!-- changelog-entries -->
+- [0.1.4](https://www.goodmaith.com/changelog/0.1.4) — October 1, 2026. new: A run of points on the board stays in step with the figures it comes from.
 - [0.1.3](https://www.goodmaith.com/changelog/0.1.3) — September 30, 2026. fix: The page stays responsive while a figure is moving.
 - [0.1.2](https://www.goodmaith.com/changelog/0.1.2) — September 29, 2026. There is a new teacher price at https://www.goodmaith.com/pricing, and drawings settle on the board more reliably.
 - [0.1.1](https://www.goodmaith.com/changelog/0.1.1) — September 29, 2026. Moving around the board feels smoother.
