@@ -13,6 +13,7 @@ The graphing workbench runs in the browser with no account, and the math handboo
 ## Changelog
 
 <!-- changelog-entries -->
+- [0.1.9](https://www.goodmaith.com/changelog/0.1.9) — October 2, 2026. The board draws a fuller construction and meets curves more truly, while the chat beside it keeps your thread.
 - [0.1.8](https://www.goodmaith.com/changelog/0.1.8) — October 2, 2026. Formulas in chat sit more comfortably, and the tutor follows what you ask.
 - [0.1.7](https://www.goodmaith.com/changelog/0.1.7) — October 1, 2026. Chat formulas have a little more room around the signs, and the tutor answers on the same pages.
 - [0.1.6](https://www.goodmaith.com/changelog/0.1.6) — October 1, 2026. new: Yearly Pro costs less.
